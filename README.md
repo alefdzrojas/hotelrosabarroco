@@ -1,4 +1,0 @@
-hotelrosabarroco
-================
-
-Hotel Rosa Barroco.
